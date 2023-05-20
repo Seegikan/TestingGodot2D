@@ -1,0 +1,14 @@
+Area2D
+CollisionShape2D
+AudioStreamPlayer
+Camera2D
+TileMap
+AnimationTree
+AnimationPlayer
+Node
+Label
+CanvasLayer
+Sprite2D
+HTTPRequest
+Node2D
+CharacterBody2D

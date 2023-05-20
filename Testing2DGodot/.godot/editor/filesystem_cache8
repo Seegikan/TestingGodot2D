@@ -1,0 +1,25 @@
+2a60927148abd1d33b818b535e306557
+::res://::1684548790
+icon.svg::CompressedTexture2D::2539648943603194120::1683599875::1683599875::1::::<><>::
+README.md::TextFile::-1::1683599875::0::1::::<><>::
+::res://Art/::1683599875
+CollectablesSheet.png::CompressedTexture2D::3840252437646126432::1683599875::1683599875::1::::<><>::
+DeepForestTileset.png::CompressedTexture2D::8996386941612866273::1683599875::1683599875::1::::<><>::
+spritesheet.png::CompressedTexture2D::1013184073847782287::1683599875::1683599875::1::::<><>::
+::res://Audio/::1684007899
+Retro_8-Bit_Game-Pickup_Object_Item_Coin_04.wav::AudioStreamWAV::3998087612163479349::1684007894::1684007899::1::::<><>::
+::res://Scenes/::1684201267
+my_scene_2d.tscn::PackedScene::5388267540591404779::1684201267::0::1::::<><>::res://Scripts/Movement/Movement.cs<>res://Scripts/GameManager.cs<>res://Scripts/Score/Score.cs<>res://Scripts/Coin/Coin.cs<>uid://oo181xevho5t<>uid://buyinqpgkki3y<>uid://d1f6gcnlex57r<>uid://bw7x6igi45y18<>res://Scripts/ChangeSceneByCollision.cs
+Scene 2.tscn::PackedScene::4774022391592865544::1684201267::0::1::::<><>::res://Scripts/GameManager.cs<>res://Scripts/Score/Score.cs<>res://Scripts/Movement/Movement.cs<>uid://oo181xevho5t<>res://Scripts/Coin/Coin.cs<>uid://buyinqpgkki3y<>uid://d1f6gcnlex57r<>uid://bw7x6igi45y18
+::res://Scripts/::1684197964
+ChangeSceneByCollision.cs::CSharpScript::-1::1684197963::0::1::::<><>::
+GameManager.cs::CSharpScript::-1::1683599875::0::1::::<><>::
+::res://Scripts/Coin/::1684010579
+Coin.cs::CSharpScript::-1::1684010579::0::1::::<><>::
+ICoin.cs::CSharpScript::-1::1683599875::0::1::::<><>::
+::res://Scripts/Movement/::1683772019
+IMovement.cs::CSharpScript::-1::1683599875::0::1::::<><>::
+Movement.cs::CSharpScript::-1::1683772019::0::1::::<><>::
+::res://Scripts/Score/::1683599875
+IScore.cs::CSharpScript::-1::1683599875::0::1::::<><>::
+Score.cs::CSharpScript::-1::1683599875::0::1::::<><>::

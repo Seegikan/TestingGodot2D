@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8/fKuGVTgNjZpDcvTtRk/pfIw+nKzA2Tyjx+4oSK1w1IUfdsN6fNb9yVP+Ww26j+ACSxlApSi4oBML1Y+H2ffQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ssair\\OneDrive\\Documentos\\Godot\\AmerikeGodot01-main\\AmerikeGodot01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ssair\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godot.sourcegenerators\\4.0.2\\godot.sourcegenerators.4.0.2.nupkg.sha512",
+    "C:\\Users\\ssair\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godotsharp\\4.0.2\\godotsharp.4.0.2.nupkg.sha512",
+    "C:\\Users\\ssair\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godotsharpeditor\\4.0.2\\godotsharpeditor.4.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
